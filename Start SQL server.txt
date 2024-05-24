@@ -2,4 +2,4 @@ Start server from terminal with this command:
 /usr/local/mysql/bin/mysql -u root -p
 
 SQL files stored on computer at this file path:
-/Applications/Abyss Web Server/htdocs/php_and_mysql_book_tutorials/sql_files/create_table.sql
+/Applications/Abyss Web Server/htdocs/php_and_mysql_book_tutorials/sql_files/<File name>
