@@ -31,8 +31,9 @@ if (mysqli_num_rows($r) == 1) {
 
 mysqli_close($dbc);
 
-echo '<p><a href="cart.php">View Cart</a> |
-<a href="forum.php">Forum</a> | 
+echo '<p><a href="shop.php">Shop</a> |
+<a href="cart.php">View Cart</a> | 
+<a href="forum.php">forum</a> |
 <a href="home.php">Home</a> |
 <a href="goodbye.php">Logout</a></p>';
 
