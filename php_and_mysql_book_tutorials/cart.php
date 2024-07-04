@@ -68,7 +68,7 @@ if (!empty($_SESSION['cart'])) {
 
 echo '<p><a href="shop.php">Shop</a> |
 <a href="checkout.php?total=' . $total . '">Checkout</a> | 
-<a href="forum.php">forum</a> |
+<a href="forum.php">Forum</a> |
 <a href="home.php">Home</a> |
 <a href="goodbye.php">Logout</a></p>';
 
